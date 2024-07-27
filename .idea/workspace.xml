@@ -20,6 +20,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -72,8 +85,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.SkyApplication.executor": "Run",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/zhouhang/java/javacode/sky-take-out/sky-server/src/main/resources/templete",
+    "last_opened_file_path": "D:/zhouhang/java/javacode/sky-take-out",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -176,6 +190,7 @@
       <workItem from="1721634441112" duration="230000" />
       <workItem from="1721634687160" duration="5216000" />
       <workItem from="1722069463960" duration="60000" />
+      <workItem from="1722069527036" duration="820000" />
     </task>
     <task id="LOCAL-00001" summary="苍穹外卖初始项目">
       <option name="closed" value="true" />
@@ -329,7 +344,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715087747853</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="苍穹外卖">
+      <option name="closed" value="true" />
+      <created>1722069636945</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1722069636945</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
