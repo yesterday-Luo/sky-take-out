@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64756e90-1201-43db-b796-c2c8e875a460" name="Changes" comment="苍穹外卖" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yesterday-Luo&quot;
+  }
+}</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="2cb10a8f-1519-482f-bada-d6d219e6c3b1" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="2cb10a8f-1519-482f-bada-d6d219e6c3b1" />
+        <option name="url" value="https://github.com/yesterday-Luo/Sky-Take-Out.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\zhouhang\java\Maven\apache-maven-3.6.3" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2fwo7wmnonk6Ad3sBQp1s7RhQLw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "JUnit.SpringDataRedisTest.testRedisTemplate.executor": "Run",
+    "JUnit.SpringDataRedisTest.testString.executor": "Run",
+    "Maven.sky-take-out [clean].executor": "Run",
+    "Maven.sky-take-out [compile].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.SkyApplication.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/zhouhang/java/javacode/sky-take-out/sky-server/src/main/resources/templete",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.sky.service" />
+      <recent name="com.sky.mapper" />
+      <recent name="com.sky.annotation" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\zhouhang\java\javacode\sky-take-out\sky-server\src\main\resources\templete" />
+      <recent name="D:\zhouhang\java\javacode\sky-take-out\sky-server\src\main\java\com\sky\service\impl" />
+      <recent name="D:\zhouhang\java\javacode\sky-take-out\sky-server\src\main\java\com\sky\service" />
+      <recent name="D:\zhouhang\java\javacode\sky-take-out\sky-server\src\main\java\com\sky\controller\admin" />
+      <recent name="D:\zhouhang\java\javacode\sky-take-out\sky-server\src\main\java\com\sky\websocket" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sky.interceptor" />
+      <recent name="com.sky.controller.user" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SkyApplication">
+    <configuration name="SpringDataRedisTest.testRedisTemplate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sky-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sky.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sky.test" />
+      <option name="MAIN_CLASS_NAME" value="com.sky.test.SpringDataRedisTest" />
+      <option name="METHOD_NAME" value="testRedisTemplate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringDataRedisTest.testString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sky-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sky.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sky.test" />
+      <option name="MAIN_CLASS_NAME" value="com.sky.test.SpringDataRedisTest" />
+      <option name="METHOD_NAME" value="testString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SkyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="sky-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sky.SkyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringDataRedisTest.testString" />
+        <item itemvalue="JUnit.SpringDataRedisTest.testRedisTemplate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64756e90-1201-43db-b796-c2c8e875a460" name="Changes" comment="" />
+      <created>1714721338157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714721338157</updated>
+      <workItem from="1714721341168" duration="1016000" />
+      <workItem from="1714722495786" duration="3707000" />
+      <workItem from="1714726740232" duration="334000" />
+      <workItem from="1714727103765" duration="48000" />
+      <workItem from="1714727175190" duration="36287000" />
+      <workItem from="1714878157974" duration="9534000" />
+      <workItem from="1714901257410" duration="8804000" />
+      <workItem from="1714960156032" duration="1026000" />
+      <workItem from="1714961428728" duration="8420000" />
+      <workItem from="1714985890526" duration="357000" />
+      <workItem from="1714986257987" duration="21145000" />
+      <workItem from="1715066770084" duration="16618000" />
+      <workItem from="1720405090297" duration="683000" />
+      <workItem from="1721468447017" duration="81000" />
+      <workItem from="1721634441112" duration="230000" />
+      <workItem from="1721634687160" duration="5216000" />
+      <workItem from="1722069463960" duration="60000" />
+    </task>
+    <task id="LOCAL-00001" summary="苍穹外卖初始项目">
+      <option name="closed" value="true" />
+      <created>1714722808804</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714722808804</updated>
+    </task>
+    <task id="LOCAL-00002" summary="苍穹外卖新增员工">
+      <option name="closed" value="true" />
+      <created>1714748066657</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714748066657</updated>
+    </task>
+    <task id="LOCAL-00003" summary="苍穹外卖员工分页查询代码">
+      <option name="closed" value="true" />
+      <created>1714750409163</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714750409163</updated>
+    </task>
+    <task id="LOCAL-00004" summary="苍穹外卖员工账号启用禁用">
+      <option name="closed" value="true" />
+      <created>1714752094836</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714752094836</updated>
+    </task>
+    <task id="LOCAL-00005" summary="苍穹外卖员编辑员工">
+      <option name="closed" value="true" />
+      <created>1714753512613</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714753512613</updated>
+    </task>
+    <task id="LOCAL-00006" summary="苍穹外卖分类管理">
+      <option name="closed" value="true" />
+      <created>1714754100672</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714754100672</updated>
+    </task>
+    <task id="LOCAL-00007" summary="苍穹外卖">
+      <option name="closed" value="true" />
+      <created>1715085938019</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715085938019</updated>
+    </task>
+    <task id="LOCAL-00008" summary="苍穹外卖">
+      <option name="closed" value="true" />
+      <created>1715085994241</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715085994241</updated>
+    </task>
+    <task id="LOCAL-00009" summary="苍穹外卖">
+      <option name="closed" value="true" />
+      <created>1715086614655</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715086614655</updated>
+    </task>
+    <task id="LOCAL-00010" summary="苍穹外卖">
+      <option name="closed" value="true" />
+      <created>1715086853562</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715086853562</updated>
+    </task>
+    <task id="LOCAL-00011" summary="苍穹外卖">
+      <option name="closed" value="true" />
+      <created>1715086921705</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1715086921705</updated>
+    </task>
+    <task id="LOCAL-00012" summary="苍穹外卖">
+      <option name="closed" value="true" />
+      <created>1715086966963</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715086966963</updated>
+    </task>
+    <task id="LOCAL-00013" summary="苍穹外卖">
+      <option name="closed" value="true" />
+      <created>1715087026624</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1715087026624</updated>
+    </task>
+    <task id="LOCAL-00014" summary="苍穹外卖">
+      <option name="closed" value="true" />
+      <created>1715087198135</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1715087198135</updated>
+    </task>
+    <task id="LOCAL-00015" summary="苍穹外卖">
+      <option name="closed" value="true" />
+      <created>1715087241976</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1715087241976</updated>
+    </task>
+    <task id="LOCAL-00016" summary="苍穹外卖">
+      <option name="closed" value="true" />
+      <created>1715087364100</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1715087364100</updated>
+    </task>
+    <task id="LOCAL-00017" summary="苍穹外卖">
+      <option name="closed" value="true" />
+      <created>1715087600431</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1715087600431</updated>
+    </task>
+    <task id="LOCAL-00018" summary="苍穹外卖">
+      <option name="closed" value="true" />
+      <created>1715087672632</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1715087672632</updated>
+    </task>
+    <task id="LOCAL-00019" summary="苍穹外卖">
+      <option name="closed" value="true" />
+      <created>1715087747853</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1715087747853</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-websocket" />
+    <option featureType="dependencySupport" implementationName="java:io.projectreactor:reactor-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-messaging" />
+    <option featureType="dependencySupport" implementationName="java:javax.validation:validation-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="苍穹外卖初始项目" />
+    <MESSAGE value="苍穹外卖新增员工" />
+    <MESSAGE value="苍穹外卖员工分页查询代码" />
+    <MESSAGE value="苍穹外卖员工账号启用禁用" />
+    <MESSAGE value="苍穹外卖员编辑员工" />
+    <MESSAGE value="苍穹外卖分类管理" />
+    <MESSAGE value="苍穹外卖" />
+    <option name="LAST_COMMIT_MESSAGE" value="苍穹外卖" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
